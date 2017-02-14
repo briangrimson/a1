@@ -24,7 +24,7 @@ span.quote{
     
 }
 p.portrait{
-    padding:5vh 5vw;
+    padding:20vh 5vw 10vh;
     text-align:center;
     overflow:auto;
     font-size:3vh;
@@ -41,6 +41,15 @@ hr{
     width:45vw;
 }
 
-main{
-    padding:20vh 5vw;
+
+p.quote{
+    padding:5vh 5vw;
+    text-align:center;
+    overflow:auto;
+    font-size:3vh;
+    display:inline;
+    width:40vw;
+    float:left;
+
+    
 }
