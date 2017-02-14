@@ -9,12 +9,12 @@ echo "
 <html>
 <head>
 <link rel=stylesheet href=css/site.css>
-
+<title>Brian Grimson Bio</title>
 </head>
 <body>
 <header>
 <h1>BRIAN GRIMSON</h1>
-<img class=portrait src=images/me_photo.jpg>
+<img class=portrait alt='photo of me' src=images/me_photo.jpg>
 </header>
 <hr>
  <p class=portrait>
