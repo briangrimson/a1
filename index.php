@@ -20,7 +20,7 @@
 $random = array_rand($list);
     echo
     '<p class=portrait>
-        My name is Brian Grimson. I am an artist currently living in the boston area. You can check out my website <a href=www.briangrimson.com>here</a> <br><br><span class=quote>'.$list[$random].'</span></p>'    
+        My name is Brian Grimson. I am an artist currently living in the boston area. You can check out my website <a href=www.briangrimson.com>here</a> < 
     ?>
     
  
